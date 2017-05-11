@@ -2,7 +2,6 @@
 .dangers {
     
 }
-
 body {
     margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
@@ -1510,7 +1509,7 @@ mark,
   text-transform: capitalize;
 }
 .text-muted {
-  color: #527F44;
+  color: #235726;
 }
 .text-primary {
   color: #337ab7;
