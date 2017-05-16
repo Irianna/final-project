@@ -1,7 +1,14 @@
 
-.dangers {
-    
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: relative;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
 }
+
+
 body {
     margin-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
@@ -10,7 +17,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('banner.jpg') no-repeat center center scroll;
+    background: url('cute-elephant-family.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -31,7 +38,7 @@ body {
 }
 
 .headline h2 {
-    color:;#FFFFFF
+    color:#FFFFFF ; 
     font-size: 77px;
     background: #fff;
     background: rgba(255,255,255,0);
@@ -1516,7 +1523,7 @@ mark,
   text-transform: capitalize;
 }
 .text-muted {
-  color: #235726;
+  color: #345F1A;
 }
 .text-primary {
   color: #337ab7;
@@ -6328,7 +6335,7 @@ button.close {
 }
 .popover.left {
   margin-left: -10px;
-}
+}t
 .popover-title {
   padding: 8px 14px;
   margin: 0;
